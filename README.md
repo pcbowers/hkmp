@@ -8,4 +8,4 @@ A basic docker image allowing one to easily run an [HKMP server]https://github.c
 docker pull pcbowers/hkmp:latest
 ```
 
-Port `26950` is used to access the server.
+Port `26950` is used to access the server. Includes [HkmpPouch](https://github.com/PrashantMohta/HkmpPouch) and [HkmpHealthDisplay](https://github.com/TheMulhima/HKMP.HealthDisplay).
