@@ -1,6 +1,6 @@
 # hkmp
 
-A basic docker image allowing one to easily run an [HKMP server]https://github.com/Extremelyd1/HKMP) for [Hollow Knight](https://www.hollowknight.com/).
+A basic docker image allowing one to easily run an [HKMP server](https://github.com/Extremelyd1/HKMP) for [Hollow Knight](https://www.hollowknight.com/).
 
 # use
 
